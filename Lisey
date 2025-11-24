@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الليسي - اكسسوار موبايل</title>
+    <style>
+        body {
+            font-family: Tahoma, sans-serif;
+            background: #f6f6f6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #111;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .phone {
+            font-size: 18px;
+            color: #ffd700;
+        }
+        .container {
+            width: 90%;
+            margin: auto;
+            padding: 20px 0;
+        }
+        .product {
+            background: #fff;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.1);
+        }
+        .product img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        .btn {
+            display: block;
+            text-align: center;
+            padding: 10px;
+            background: #111;
+            color: #fff;
+            margin-top: 10px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    الليسي للإكسسوار  
+    <div class="phone">01008030601</div>
+</header>
+
+<div class="container">
+
+    <div class="product">
+        <h3>جراب موبايل فاخر</h3>
+        <img src="https://via.placeholder.com/400x300" alt="جراب">
+        <p>جراب خامة ممتازة – ألوان متعددة</p>
+        <a class="btn" href="https://wa.me/201008030601">تواصل واتساب</a>
+    </div>
+
+    <div class="product">
+        <h3>سكرين زجاج 9D</h3>
+        <img src="https://via.placeholder.com/400x300" alt="سكرين">
+        <p>أقوى حماية ضد الخبط والخدش</p>
+        <a class="btn" href="https://wa.me/201008030601">اطلب الآن</a>
+    </div>
+
+    <div class="product">
+        <h3>شواحن وأنكر</h3>
+        <img src="https://via.placeholder.com/400x300" alt="شاحن">
+        <p>شواحن أصلية – جودة ممتازة</p>
+        <a class="btn" href="https://wa.me/201008030601">اسأل عن الأسعار</a>
+    </div>
+
+</div>
+
+</body>
+</html>
