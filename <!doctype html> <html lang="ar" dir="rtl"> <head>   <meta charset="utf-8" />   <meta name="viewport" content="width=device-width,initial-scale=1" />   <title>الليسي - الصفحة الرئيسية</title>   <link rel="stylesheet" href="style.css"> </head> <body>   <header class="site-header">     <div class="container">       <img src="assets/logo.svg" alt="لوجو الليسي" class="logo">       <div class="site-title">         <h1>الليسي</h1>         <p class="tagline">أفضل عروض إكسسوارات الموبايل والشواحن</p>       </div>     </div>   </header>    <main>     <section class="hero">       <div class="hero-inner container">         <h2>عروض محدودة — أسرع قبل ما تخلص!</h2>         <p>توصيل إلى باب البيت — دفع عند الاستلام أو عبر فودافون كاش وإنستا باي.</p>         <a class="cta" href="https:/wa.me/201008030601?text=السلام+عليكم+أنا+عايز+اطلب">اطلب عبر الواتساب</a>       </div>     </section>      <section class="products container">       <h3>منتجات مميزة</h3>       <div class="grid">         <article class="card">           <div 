@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>الليسي - الصفحة الرئيسية</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <img src="assets/logo.svg" alt="لوجو الليسي" class="logo">
+      <div class="site-title">
+        <h1>الليسي</h1>
+        <p class="tagline">أفضل عروض إكسسوارات الموبايل والشواحن</p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-inner container">
+        <h2>عروض محدودة — أسرع قبل ما تخلص!</h2>
+        <p>توصيل إلى باب البيت — دفع عند الاستلام أو عبر فودافون كاش وإنستا باي.</p>
+        <a class="cta" href="https://wa.me/201008030601?text=السلام+عليكم+أنا+عايز+اطلب">اطلب عبر الواتساب</a>
+      </div>
+    </section>
+
+    <section class="products container">
+      <h3>منتجات مميزة</h3>
+      <div class="grid">
+        <article class="card">
+          <div class="img-placeholder">صورة</div>
+          <h4>شاحن أنكر 25 واط</h4>
+          <p class="price">199 ج.م</p>
+        </article>
+
+        <article class="card">
+          <div class="img-placeholder">صورة</div>
+          <h4>كابل تايب سي سريع</h4>
+          <p class="price">79 ج.م</p>
+        </article>
+
+        <article class="card">
+          <div class="img-placeholder">صورة</div>
+          <h4>وايرلس شاحن</h4>
+          <p class="price">249 ج.م</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="about container">
+      <h3>معلومات</h3>
+      <p>الليسي — صفحات سريعة وجذابة للعرض على تيك توك وفيسبوك. تواصل معانا لأي استفسار على الواتساب أو تيك توك.</p>
+      <p class="small">تيك توك: <a href="https://www.tiktok.com/@lisey55555" target="_blank">@lisey55555</a></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>اتصل بنا: <a href="tel:+20100803060
